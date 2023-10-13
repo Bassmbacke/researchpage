@@ -4,7 +4,8 @@ layout: homepage
 
 ## A propos de moi
 <div style="text-align: justify">
-Je suis passionné de la géomatique, des SIG et de la cartographie. Depuis que j'ai découvert ces domaines, je suis constamment fasciné par leur capacité à aider à comprendre notre monde et à résoudre des problèmes complexes. Je suis déterminé à continuer à explorer ces domaines et à développer mes compétences en utilisant les dernières technologies et techniques de cartographie et de visualisation de données. En tant que professionnel de la géomatique, je suis convaincu que ces outils peuvent avoir un impact positif sur la société en aidant à prendre des décisions éclairées et en fournissant des informations utiles pour résoudre les défis environnementaux et socio-économiques.
+Dr en Géographie, chercheur en Écosystèmes-environnement, je me passionne des problématiques écologiques et environnementales. Les résultats de mes recherches ont permis de mieux connaître le géosystème marin et côtier dans la Grande Côte du Sénégal. Ils ont trait à la déflation éolienne, à la cartographie de la réponse d’aménagement face au risque morphogénique, aux mutations spatiales, à la géomorphologie littorale, aux thématiques environnementales nouvelles : risque, vulnérabilité, résilience, adaptation, changements climatiques…
+Chercheur au laboratoire Leïdi « Dynamique des Territoires et Développement » de l’Université Gaston Berger de Saint-Louis, je participe à l’animation pédagogique et à l’encadrement des étudiants de la section de Géographie de l’université.
 </div>
 <br>
 <!--
