@@ -1,0 +1,47 @@
+# Basic Information 
+title: Ousmane DIOUF
+position: Maître de conférences en Géomatique et Aménagement
+affiliation: <a>Ecole Supérieure des Géomètres et topographes (ESGT - CNAM)</a>
+affiliation_link: https://www.esgt.cnam.fr/recherche/
+email: ousmane.diouf@lecnam.net
+
+# Search Engine Optimization (SEO)
+keywords: diouf, ousmane, ESGT, SIG, Géomatique, CNAM
+canonical: https://dioufousmane.github.io/portfolio/
+description: 
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+google_scholar: https://scholar.google.com/citations?hl=fr&user=F-v4D2sAAAAJ
+cv_link: https://dioufousmane.github.io/portfolio/
+github_link: https://github.com/dioufousmane/
+linkedin: https://www.linkedin.com/in/diouf-ousmane/
+twitter: https://www.researchgate.net/profile/Ousmane-Diouf-4/
+
+# Images 
+avatar: ./assets/img/phot_id_diouf_ousmane.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnotes
+#footnote: Feel free to use my website's source code.
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+#clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
