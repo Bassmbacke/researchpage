@@ -154,6 +154,7 @@
       <div class="author"><strong>Mouhamadou Bassirou SECK DIOUF</strong>, Amadou Abou SY et Boubou Aldiouma SY</div>
       <div class="periodical"><em>Revue de Géographie du Laboratoire Leïdi, juillet 2020.</em>
       </div>
+      <div class="abstract hidden open"> test</div>
     <div class="links">
       <!--<a href="https://arxiv.org/pdf/2010.05063.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://git.io/JYHyt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
