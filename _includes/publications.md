@@ -151,10 +151,12 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162000/">Transport des débits massiques éoliens dans la zone des Niayes : cas du secteur de Mboro littoral nord sénégalais</a></div>
-      <div class="author"><strong>Mouhamadou Bassirou SECK DIOUF</strong>, Amadou Abou SY et Boubou Aldiouma SY</div>
+      <div class="author"><strong>Mouhamadou Bassirou SECK </strong>, Amadou Abou SY et Boubou Aldiouma SY</div>
       <div class="periodical"><em>Revue de Géographie du Laboratoire Leïdi, juillet 2020.</em>
       </div>
+  <li>
       <div class="abstract hidden open"> test</div>
+  </li>
     <div class="links">
       <!--<a href="https://arxiv.org/pdf/2010.05063.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://git.io/JYHyt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
