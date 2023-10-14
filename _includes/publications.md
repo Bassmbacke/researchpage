@@ -154,8 +154,7 @@
       <div class="author"><strong>Mouhamadou Bassirou SECK DIOUF</strong>, Amadou Abou SY et Boubou Aldiouma SY</div>
       <div class="periodical"><em>Revue de Géographie du Laboratoire Leïdi, juillet 2020.</em>
       </div>
-       <p style="text-align: justify">Une masse importante de débits solides est entrainée en direction des Niayes, bas-fonds assurant la transition entre les dunes rouges continentales et les dunes jaunes semi-fixées. Ces espaces maraîchers subissent une dynamique d’ensablement dans un contexte où la population de plus en plus croissante est en quête permanente de terres cultivables.
-Cette contribution dans la revue Leïdi quantifie les débits massiques éoliens transportés par le vent le long de la côte de Mboro, Littoral Nord du Sénégal. Elle permet de traduire une réalité observable en données mesurables</p>
+       
     <div class="links">
       <!--<a href="https://arxiv.org/pdf/2010.05063.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://git.io/JYHyt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -172,6 +171,8 @@ Cette contribution dans la revue Leïdi quantifie les débits massiques éoliens
   </div>
 </div>
 </li>
+<p style="text-align: justify">Une masse importante de débits solides est entrainée en direction des Niayes, bas-fonds assurant la transition entre les dunes rouges continentales et les dunes jaunes semi-fixées. Ces espaces maraîchers subissent une dynamique d’ensablement dans un contexte où la population de plus en plus croissante est en quête permanente de terres cultivables.
+Cette contribution dans la revue Leïdi quantifie les débits massiques éoliens transportés par le vent le long de la côte de Mboro, Littoral Nord du Sénégal. Elle permet de traduire une réalité observable en données mesurables</p>
 <!--
 <br>
 <li>
