@@ -19,6 +19,6 @@ Chercheur au laboratoire Leïdi « Dynamique des Territoires et Développement 
 {% include_relative _includes/themes.md %}
 
 ## Contacts
-**Adresse:** [ESGT, 1 Bd Pythagore, 72000 Le Mans](https://www.google.com/maps/uv?pb=!1s0x47e2861790c95d5f%3A0x8072e9a88e911550!3m1!7e115!4s%2Fmaps%2Fplace%2Fesgt%2Badrese%2F%4048.0186234%2C0.154416%2C3a%2C75y%2C31.19h%2C90t%2Fdata%3D*213m4*211e1*213m2*211s_5ZOkiC8pyhrgSyZJ1MFgg*212e0*214m2*213m1*211s0x47e2861790c95d5f%3A0x8072e9a88e911550%3Fsa%3DX%26ved%3D2ahUKEwjru8u4ooyBAxVGVKQEHYWpAkEQpx96BAg_EAA!5sesgt%20adresse%20-%20Recherche%20Google!15sCgIgAQ&imagekey=!1e2!2s_5ZOkiC8pyhrgSyZJ1MFgg&hl=fr&sa=X&ved=2ahUKEwjru8u4ooyBAxVGVKQEHYWpAkEQpx96BAhjEA0)
+**Adresse:** [Laboratoire Leïdi, Université Gaston Berger / Saint-Louis - Sénégal]()
 <br>
 <!--**Office Location:** 248 Malone Hall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** (410) 929-6777-->
