@@ -166,9 +166,6 @@
   });
   </script>-->
     </div>
-   <p style="text-align: justify">Une masse importante de débits solides est entrainée en direction des Niayes, bas-fonds assurant la transition entre les dunes rouges continentales et les dunes jaunes semi-fixées. Ces espaces maraîchers subissent une dynamique d’ensablement dans un contexte où la population de plus en plus croissante est en quête permanente de terres cultivables.
-Cette contribution dans la revue Leïdi quantifie les débits massiques éoliens transportés par le vent le long de la côte de Mboro, Littoral Nord du Sénégal. Elle permet de traduire une réalité observable en données mesurables</p>
-
   </div>
 </div>
 </li>
