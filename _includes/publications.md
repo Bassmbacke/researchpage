@@ -146,20 +146,19 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://dioufousmane.github.io/researchpage/assets/img/book_2015.jpg" class="teaser img-fluid z-depth-1">
+    <img src="https://bassmbacke.github.io/researchpage/files/article_1.pdf" class="teaser img-fluid z-depth-1">
             <abbr class="badge">HAL/ORCID</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162000/">Transport des débits massiques éoliens dans la zone des Niayes : cas du secteur de Mboro littoral nord sénégalais</a></div>
       <div class="author"><strong>Mouhamadou Bassirou SECK </strong>, Amadou Abou SY et Boubou Aldiouma SY</div>
       <div class="periodical"><em>Revue de Géographie du Laboratoire Leïdi, juillet 2020.</em>
-      </div>
-       
+      </div>       
     <div class="links">
       <!--<a href="https://arxiv.org/pdf/2010.05063.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://git.io/JYHyt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>-->
-      <a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162000v1/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162000v1/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
   <!--<a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
   <script>
   githubStars("yaoyao-liu/class-incremental-learning", function(stars) {
