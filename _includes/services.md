@@ -6,8 +6,7 @@
   <li><autocolor>Instruction d’articles de revues scientifiques internationales</autocolor></li>
   <li><autocolor>Consultant environnementaliste EGECOM</autocolor></li>
    <li><autocolor>Gestionnaire de projet de développement </autocolor></li>
-  <li><autocolor>Animation de cellules pédagogiques mixtes, IEF Thiès-ville
-</autocolor></li>
+  <li><autocolor>Animation de cellules pédagogiques mixtes, IEF Thiès-ville</autocolor></li>
 
 </ul>
 <!--
