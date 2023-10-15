@@ -21,6 +21,7 @@
   </div>
 </div>
 </li>
+<p style="text-align: justify"><strong> Résumé : </strong>Cet ouvrage collectif interroge un vaste champ d’investigation géographique: approche géomorphologique appliquée à l’aménagement du territoire. Sa formulation entre dans le cadre des enseignements dispensés dans le projet pédagogique du Département de géographie de l’Université Gaston BERGER (UGB) de Saint-Louis (Sénégal). L’essai est sous la direction du Professeur Boubou Aldiouma SY, Responsable de l’équipe Géomorphologie-Environnement-Développement (GED) logée dans le laboratoire Leïdi « Dynamiques des territoires et développement » (DTD) de l’École Doctorale des Sciences de l’Homme et de la Société (ED-SHS) de l’UGB.Il est destiné aux étudiants, docteurs et enseignants qui investissent la géographie, un corps de science complexe à mieux rehausser l’intelligence pour davantage de maîtrise dans la conception, le dimensionnement et l’opérationnalisation des schémas d’aménagement du territoire (ADT).</p>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -38,6 +39,7 @@
   </div>
 </div>
 </li>
+<p style="text-align: justify"><strong> Résumé : </strong>Cet ouvrage collectif interroge un vaste champ d’investigation géographique: approche géomorphologique appliquée à l’aménagement du territoire. Sa formulation entre dans le cadre des enseignements dispensés dans le projet pédagogique du Département de géographie de l’Université Gaston BERGER (UGB) de Saint-Louis (Sénégal). L’essai est sous la direction du Professeur Boubou Aldiouma SY, Responsable de l’équipe Géomorphologie-Environnement-Développement (GED) logée dans le laboratoire Leïdi « Dynamiques des territoires et développement » (DTD) de l’École Doctorale des Sciences de l’Homme et de la Société (ED-SHS) de l’UGB.Il est destiné aux étudiants, docteurs et enseignants qui investissent la géographie, un corps de science complexe à mieux rehausser l’intelligence pour davantage de maîtrise dans la conception, le dimensionnement et l’opérationnalisation des schémas d’aménagement du territoire (ADT).</p>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
