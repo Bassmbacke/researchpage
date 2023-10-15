@@ -86,7 +86,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://bassmbacke.github.io/researchpage/assets/img/article2.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-            <abbr class="badge">HAL/ORCID</abbr>
+            <abbr class="badge">HAL/PDF</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title" style="text-align: justify"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02984758/">Dynamique des unités de paysage dans l’espace dunaire du secteur de Mboro, littoral Nord du Sénégal : une réponse sédimentaire qui témoigne de l’efficacité des actions de reboisement</a></div>
@@ -96,6 +96,7 @@
     <div class="links">
       <!--<a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>-->
       <a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02984758v1/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <a href="https://bassmbacke.github.io/researchpage/files/article_2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
