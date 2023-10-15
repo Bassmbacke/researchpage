@@ -12,7 +12,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title" style="text-align: justify"><a href="">Le rôle de géographie dans l'aménagement du territoire</a></div>
-      <div class="author"><strong>Mouhamadou Bassirou SECK,</strong>,  Souleymane Niang et Ndioufa NDAW </div>
+      <div class="author"><strong>Mouhamadou Bassirou SECK,</strong>  Souleymane Niang et Ndioufa NDAW </div>
       <div class="periodical"><em>Editions universitaires europeennes, 2022</em>
       </div>
     <div class="links">
