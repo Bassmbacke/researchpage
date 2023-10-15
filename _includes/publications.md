@@ -26,22 +26,22 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://dioufousmane.github.io/researchpage/assets/img/conf_hydro_benin.jpg" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">HAL/ORCID</abbr>
+    <img src="https://bassmbacke.github.io/researchpage/assets/img/article5.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">PDF</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title" style="text-align: justify"><a href="https://hal.science/hal-04004779/">Les «territoires salés» de l’eau du delta du Sénégal</a></div>
-      <div class="author"><strong>Ousmane DIOUF</strong></div>
-      <div class="periodical"><em>Conférence Internationale sur l'Hydrologie des grands fleuves africains, novembre 2021, Cotonou, Bénin</em>
+      <div class="title" style="text-align: justify"><a href="https://bassmbacke.github.io/researchpage/files/article_5.pdf">Caractérisation des contraintes chimiques dans les périmètres maraichers des Niayes : cas du lac Wouye, littoral Nord du Sénégal</a></div>
+      <div class="author">Marième FALL<strong>Mouhamadou Bassirou SECK</strong>  Souleymane NIANG Boubou Aldiouma SY</div>
+      <div class="periodical"><em>Revue territoires environnement et développement (TED)</em>
       </div>
     <div class="links">
       <!--<a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>-->
-      <a href="https://hal.science/hal-04004779v1/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <a href="https://bassmbacke.github.io/researchpage/files/article_5.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> 
     </div>
   </div>
 </div>
+<p style="text-align: justify"><strong> Résumé : </strong>L’objet de cette contribution est de mesurer la salinité et l’acidité des sols et des eaux dans les périmètres maraichers du lac Wouye (Dakar, Sénégal) afin de caractériser les contraintes chimiques sur les espèces cultivées et les espaces de culture. Les résultats témoignent d’une salinisation et d’une alcalinisation des sols et des eaux. La CE des eaux du lac inondant les parcelles de culture s’élève en 2018 à 12 000 μS/cm, le pH montre des sols très alcalins avec 9,26 en 2018 et 8,28 pour les eaux du lac. La conséquence est une perte substantielle des aires de culture estimée à 92 ha, soit 90,2 % en 2018. Ces contraintes chimiques limitent considérablement la production agricole dans les Niayes du lac Wouye.</p>
 </li>
-  
 <br>
 <li>
 <div class="pub-row">
