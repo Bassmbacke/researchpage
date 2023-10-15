@@ -85,12 +85,12 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://dioufousmane.github.io/researchpage/assets/img/mboro.jpg" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    <img src="hhttps://bassmbacke.github.io/researchpage/assets/img/article2.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
             <abbr class="badge">HAL/ORCID</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title" style="text-align: justify"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02984758/">Dynamique des unités de paysage dans l’espace dunaire du secteur de Mboro, littoral Nord du Sénégal : une réponse sédimentaire qui témoigne de l’efficacité des actions de reboisement</a></div>
-      <div class="author">Mouhamadou Bassirou Seck, Amadou Abou Sy,<strong> Ousmane DIOUF</strong>,  Boubou Aldiouma Sy</div>
+      <div class="author"><strong>Mouhamadou Bassirou Seck</strong>, Amadou Abou Sy, Ousmane DIOUF,  Boubou Aldiouma Sy</div>
       <div class="periodical"><em>Revue de Géographie du Laboratoire Leïdi, 2020.</em>
       </div>
     <div class="links">
@@ -102,50 +102,7 @@
 </li>
 <br>
  <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://dioufousmane.github.io/researchpage/assets/img/colloque_2019_civ.jpg" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">HAL/ORCID</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title" style="text-align: justify"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162019/">Étude géographique de la salinité des sols. Cartographie, perception et stratégies de gestion individuelles dans les périmètres irrigués du Gorom-Lampsar dans le delta du Sénégal.</a></div>
-      <div class="author"><strong> Ousmane DIOUF</strong></div>
-      <div class="periodical"><em>Colloque International de Géographie-Dynamique des milieux anthropisés et gouvernance spatiale en Afrique subsaharienne depuis les indépendances, 2019</em>
-      </div>
-    <div class="links">
-      <!--<a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162019/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>-->
-      <!--<a href="https://doi.org/10.1109/TPAMI.2020.3018506" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://lyy.mpi-inf.mpg.de/mtl/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>-->
-      <a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162019v1/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-    </div>
-  </div>
-</div>
-</li>
-<br> 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://dioufousmane.github.io/researchpage/assets/img/jes_2018.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">HAL/ORCID</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162009/">Perception et stratégies de gestion individuelles de la salinité des sols dans le bas delta du Sénégal</a></div>
-      <div class="author"><strong>Ousmane DIOUF</strong></div>
-      <div class="periodical"><em>Journées d'Étude des Sols 2018, Rouen</em>
-      </div>
-    <div class="links">
-      <!--<a href="https://arxiv.org/pdf/2301.05792.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/rmm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/rmm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>-->
-      <a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162009v1/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-    </div>
-  </div>
-</div>
-</li>
-<br>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://bassmbacke.github.io/researchpage/assets/img/article1.png" class="teaser img-fluid z-depth-1">
