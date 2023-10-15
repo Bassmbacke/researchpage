@@ -4,7 +4,23 @@
 
 <div class="publications">
 <ol class="bibliography">
-
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://dioufousmane.github.io/researchpage/assets/img/book_2015.jpg" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">HAL/ORCID</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title" style="text-align: justify"><a href="">Le rôle de géographie dans l'aménagement du territoire</a></div>
+      <div class="author"><strong>Mouhamadou Bassirou SECK,</strong>,  Souleymane Niang et Ndioufa NDAW </div>
+      <div class="periodical"><em>Editions universitaires europeennes, 2022</em>
+      </div>
+    <div class="links">
+      <a href="https://my.editions-ue.com/catalogue/details/fr/978-620-3-43844-4/le-r%C3%B4le-de-la-g%C3%A9ographie-dans-l-am%C3%A9nagement-du-territoire?search=Les%20plantes%20spontan%C3%A9es%20%C3%A0%20caract%C3%A8res%20m%C3%A9dicinales%20dans%20la%20r%C3%A9gion%20de%20Bordj%20Ghedir" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+    </div>
+  </div>
+</div>
+</li>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
