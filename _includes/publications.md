@@ -56,7 +56,6 @@
       </div>
     <div class="links">
       <a href="https://bassmbacke.github.io/researchpage/files/article_4.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
     </div>
   </div>
 </div>
