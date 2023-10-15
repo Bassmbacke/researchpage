@@ -149,7 +149,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://dioufousmane.github.io/researchpage/assets/img/book_2015.jpg" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">HAL/ORCID</abbr>
+            <abbr class="badge">PDF</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-02162000/">Transport des débits massiques éoliens dans la zone des Niayes : cas du secteur de Mboro littoral nord sénégalais</a></div>
