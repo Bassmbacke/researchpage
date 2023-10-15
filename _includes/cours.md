@@ -1,6 +1,6 @@
 ## Mes enseignements
 
-- Professeur des écoles, [Histoire-Géographie](https://iathies.com/) à [IEF Thiès-ville](https://iathies.com/), 2014 à Ajourd'hui
+- Professeur des écoles, [Histoire-Géographie](https://iathies.com/) à [IEF Thiès-ville](https://iathies.com/), 2018 à Ajourd'hui
 - Enseignant chercheur associé au Laboratoire Leïdi « DTD », [Géographie et Environnement](https://www.ugb.sn/lsh/) à [Université Gaston Berger](https://ugb.sn), 2016 à Ajourd'hui
 <h4 style="margin:0 10px 0;">Activités et responsabilités en matière d'enseignement
 </h4>
