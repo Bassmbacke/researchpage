@@ -77,12 +77,10 @@
     <div class="links">
       <a href="https://bassmbacke.github.io/researchpage/files/article_3.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://eujournal.org/index.php/esj/article/view/14427" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a> 
-
     </div>
   </div>
 </div>
 </li>
-<br><br>
 <p style="text-align: justify"><strong> Résumé : </strong>La côte nord du Sénégal est un espace qui est soumis aux facteurs de la morphodynamique du système de dunes littorales. Ce sont des facteurs agents du risque vecteurs de la dynamique d’ensablement en cours. Cet article détermine la granulométrie du substrat dunaire afin d’apprécier sa sensibilité au vent, d’une part, mesure les enjeux socio-économiques du potentiel agronomique maraîcher à Mboro, d’autre part. Dans ce cadre, la méthodologie est basée sur un échantillonnage de sol, l’analyse granulométrique par tamisage et des enquêtes socio-économiques in situ. Compte tenu de la sensibilité granulaire des sédiments à la déflation face au potentiel agronomique des Niayes à Mboro, une recherche axée sur l’intensité du risque de dégradation mécanique des profils pédologiques est justifiée dans cet environnement aérologique favorable à la déflation éolienne et sur l’activité économique autour des Niayes (cuvettes maraîchères).</p>
 <br>
 <li>
