@@ -31,7 +31,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title" style="text-align: justify"><a href="https://bassmbacke.github.io/researchpage/files/article_5.pdf">Caractérisation des contraintes chimiques dans les périmètres maraichers des Niayes : cas du lac Wouye, littoral Nord du Sénégal</a></div>
-      <div class="author">Marième FALL<strong>Mouhamadou Bassirou SECK</strong>  Souleymane NIANG Boubou Aldiouma SY</div>
+      <div class="author">Marième FALL, <strong>Mouhamadou Bassirou SECK, </strong>Souleymane NIANG et Boubou Aldiouma SY</div>
       <div class="periodical"><em>Revue territoires environnement et développement (TED)</em>
       </div>
     <div class="links">
