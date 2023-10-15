@@ -67,16 +67,17 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://dioufousmane.github.io/researchpage/assets/img/salinity.jpg" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">HAL/ORCID</abbr>
+            <abbr class="badge">PDF/DOI</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title" style="text-align: justify"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-03018308/">Soil salinity assessing in semi-arid and agricultural context: the case of the Gorom-Lampsar perimeters in the Senegal River Delta</a></div>
-      <div class="author"><strong>Ousmane DIOUF</strong>, Pascal BARTOUT, Laurent TOUCHART</div>
-      <div class="periodical"><em>Journal of Remote Sensing & GIS (JoRSG), 2021.</em>
+      <div class="title" style="text-align: justify"><a href="https://eujournal.org/index.php/esj/article/view/14427">Potentiels agronomiques des Niayes de Mboro (littoral Nord du Sénégal) et risques de dégradation mécanique par ensablement : approche par analyse géomorphologique des enjeux socio-économiques</a></div>
+      <div class="author"><strong>Mouhamadou Bassirou SCEK</strong>, et Boubou Aldiouma SY</div>
+      <div class="periodical"><em>ESJ Humanities</em>
       </div>
     <div class="links">
-      <!--<a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>-->
-      <a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-03018308v1/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <a href="https://bassmbacke.github.io/researchpage/files/article_3.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://eujournal.org/index.php/esj/article/view/14427" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a> 
+
     </div>
   </div>
 </div>
