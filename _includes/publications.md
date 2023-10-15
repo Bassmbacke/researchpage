@@ -12,7 +12,7 @@
             <abbr class="badge">HAL/ORCID</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title" style="text-align: justify"><a href="https://journals.openedition.org/vertigo/36362">Indicateurs et pratiques de gestion de la salinité des sols dans le Gorom-Lampsar (delta du Sénégal)</a></div>
+      <div class="title" style="text-align: justify"><a href="https://journals.openedition.org/vertigo/36362">Le rôle de géographie dans l'aménagement du territoire</a></div>
       <div class="author"><strong>Ousmane DIOUF</strong>,Pascal BARTOUT, Laurent TOUCHART </div>
       <div class="periodical"><em>VertigO - la revue électronique en sciences de l'environnement, Volume 22 numéro 3 | Décembre 2022</em>
       </div>
