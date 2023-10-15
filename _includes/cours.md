@@ -6,7 +6,7 @@
 </h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Programme d'Histoire et de Géograpie : Seconde à Terminale
+  <li><autocolor>Programme d'Histoire et de Géograpie : Sixième à Terminale
 </autocolor> </li>
   <li><autocolor>CM UE Géo 351 : Géomorphologie et aménagement du territoire. Licence 3, Section de géographie de l’Université Gaston Berger de Saint-Louis </autocolor></li>
 </ul>
