@@ -46,23 +46,24 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://dioufousmane.github.io/researchpage/assets/img/poster_geolimno.jpg" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">HAL/ORCID</abbr>
+    <img src="https://bassmbacke.github.io/researchpage/assets/img/article4.jpg" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">PDF</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title" style="text-align: justify"><a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-03469583">Utilisation de la télédétection dans le suivi de la végétation aquatique sur les contours du lac de Guiers</a></div>
-      <div class="author"><strong>Ousmane DIOUF</strong>, Seydou KA</div>
-      <div class="periodical"><em>Colloque Etangs et Lacs - Orléans, 2021.</em>
+      <div class="title" style="text-align: justify"><a href="https://bassmbacke.github.io/researchpage/files/article_4.pdf">Dégradation du couvert végétal et mutations de l’espace agropastoral dans la commune de Séssène, nord du bassin arachidier (Sénégal)</a></div>
+      <div class="author">SOUGOU Abdoulaye, <strong> Mouhamadou Bassirou SECK </strong>et SY Boubou Aldiouma</div>
+      <div class="periodical"><em>Revue de Géographie de l’Université de Ouagadougou</em>
       </div>
     <div class="links">
-      <a href="https://hal-univ-orleans.archives-ouvertes.fr/hal-03469583/document" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://hal.science/hal-03469583v1/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <a href="https://bassmbacke.github.io/researchpage/files/article_4.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
     </div>
   </div>
 </div>
 </li>
-  
+ <p style="text-align: justify"><strong> Résumé : </strong>Dans le bassin arachidier du Sénégal, la couverture arborée connait une régression progressive sous l’effet de la péjoration climatique et de l’action de l’Homme. L’objectif de ce travail est de saisir le lien entre la dégradation de la couverture ligneuse et les mutations dans le secteur agropastoral de la commune de Séssène, Nord du bassin arachidier. La méthodologie consiste à cartographier l’indice de végétation (NDVI) en saison sèche de l’espace échantillon selon une approche diachronique. Cette perspective est accompagnée de l’analyse des paramètres climatiques et socio-économiques associés. Le tout est corrélé à l’évolution de la productivité et de l’état des sols et aux systèmes palliatifs.</p> 
 <br>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
