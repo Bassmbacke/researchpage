@@ -19,6 +19,7 @@ Chercheur au laboratoire Leïdi « Dynamique des Territoires et Développement 
 {% include_relative _includes/themes.md %}
 
 ## Contacts
-**Adresse:** [Laboratoire Leïdi, Université Gaston Berger / Saint-Louis - Sénégal]()
-<br>
+**Adresse:** [Adresse : Médina Fall, Thiès - Sénégal]()
+**Téléphone:** : (+221) 77 247 27 66 <br>
+**Mail** :  seckbassirou209@yahoo.fr
 <!--**Office Location:** 248 Malone Hall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** (410) 929-6777-->
