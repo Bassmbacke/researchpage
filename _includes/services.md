@@ -1,12 +1,14 @@
 ## Activités en matière d'administration et autres responsabilités
 
 <h4 style="margin:0 10px 0;">Comité d'Organisation</h4>
-
 <ul style="margin:0 0 5px;">
-  <li><autocolor>2020 et 2021 : Organisation d'écoles de terrain pour le parcours de Licence (Université d'Orléans)</autocolor> </li>
-  <li><autocolor>2016 à 2020: Organisation de Séminaires doctoriales pour le laboratoire (CEDETE Université d'Orléans)</autocolor></li>
-  <li><autocolor>2021 à 2023: Responsable Infrastructure de données Spatiales (IDS) à l'agence d'urbanisme de Metz (<a href="https://www.aguram.org/aguram/">AGURAM</a>)</autocolor></li>
-   <li><autocolor>2021 à 2023: Responsable méthodologies SIG dans les projets ZAN, OHF, ZAE et Friches à l'<a href="https://www.aguram.org/aguram/">AGURAM</a></autocolor></li>
+  <li><autocolor>Encadrement des travaux d'études et de recherche en master (UGB)</autocolor> </li>
+  <li><autocolor>Instruction d’articles de revues scientifiques internationales</autocolor></li>
+  <li><autocolor>Consultant environnementaliste EGECOM</autocolor></li>
+   <li><autocolor>Gestionnaire de projet de développement </autocolor></li>
+  <li><autocolor>Animation de cellules pédagogiques mixtes, IEF Thiès-ville
+</autocolor></li>
+
 </ul>
 <!--
 <h4 style="margin:0 10px 0;">Area Chair</h4>
