@@ -19,7 +19,8 @@ Chercheur au laboratoire Leïdi « Dynamique des Territoires et Développement 
 {% include_relative _includes/themes.md %}
 
 ## Contacts
-**Adresse:** [Adresse : Médina Fall, Thiès - Sénégal]()
+**Adresse:** [Adresse : Médina Fall, Thiès - Sénégal]()<br>
 **Téléphone:** : (+221) 77 247 27 66 <br>
 **Mail** :  seckbassirou209@yahoo.fr
 <!--**Office Location:** 248 Malone Hall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** (410) 929-6777-->
+
