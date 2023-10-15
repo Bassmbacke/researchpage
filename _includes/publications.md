@@ -104,6 +104,8 @@
 
 <p style="text-align: justify"><strong> Résumé : </strong>Cette contribution quantifie l’évolution spatiale du paysage dunaire en s’appuyant sur la cartographie de la végétation dans le secteur de Mboro où sévit un risque érosif lié à la déflation éolienne. Les aires occupées par la végétation sont évaluées et les indices végétaux (NDVI, biomasse végétale) sont déterminés pour étudier la rugosité du milieu. Les résultats montrent une évolution régressive des superficies occupées par les dunes depuis les années 1990 au profit de l’évolution des espaces végétalisés sur le flanc des dunes. Un tel résultat s’explique par l’efficacité des opérations de reboisement dans le secteur de Mboro, un des secteurs les plus stables de la côte nord du Sénégal.</p>
  <li>
+ <br>  <br>
+
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://bassmbacke.github.io/researchpage/assets/img/article1.png" class="teaser img-fluid z-depth-1">
