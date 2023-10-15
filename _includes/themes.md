@@ -1,15 +1,20 @@
 ## Thèmes et mots-clés de mon domaine de recherche
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>SIG (Analyse spatiale, Géostatistiques, Bases de données, Cartographie, SIG Web, Python-GIS)</autocolor> </li>
-  <li><autocolor>Télédétection (Traitement d'images, Création d'Indices, Méthodes IA)</autocolor></li>
-  <li><autocolor>Hydrologie (Analyse et modélisation hydrologique, Gestion de l'eau, Hydrologie de surface)</autocolor></li>
-   <li><autocolor>Urbanisme (Données urbaines, PLUi, Foncier)</autocolor></li>
-  <li><autocolor>Hydrologie et Sociétés & Environnement (Territoires de l'eau,
-gestion et gouvernance de l'eau).</autocolor>
+  <li><autocolor>Géomorphologie littorale</autocolor> </li>
+  <li><autocolor>Risque morphogénique</autocolor></li>
+  <li><autocolor>Vulnérabilité</autocolor></li>
+   <li><autocolor>Changements climatiques</autocolor></li>
+  <li><autocolor>Aménagement du territoire</autocolor>
+  <li><autocolor>Morphopédologie</autocolor>
+  <li><autocolor>Géodynamique des écosystèmes littoraux et continentaux</autocolor>
+  <li><autocolor>SIG et télédétection</autocolor>
+  <li><autocolor>Suivi environnemental</autocolor>
 
    </li>
 </ul>
+
+
 <!--
 <h4 style="margin:0 10px 0;">Area Chair</h4>
 <ul style="margin:0 0 5px;">
