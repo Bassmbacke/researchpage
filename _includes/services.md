@@ -1,6 +1,6 @@
 ## Activités en matière d'administration et autres responsabilités
 
-<h4 style="margin:0 10px 0;">Respinsabilités</h4>
+<h4 style="margin:0 10px 0;">Responsabilités</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>Encadrement des travaux d'études et de recherche en master (UGB)</autocolor> </li>
   <li><autocolor>Instruction d’articles de revues scientifiques internationales</autocolor></li>
