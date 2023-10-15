@@ -5,13 +5,11 @@
   <li><autocolor>Risque morphogénique</autocolor></li>
   <li><autocolor>Vulnérabilité</autocolor></li>
    <li><autocolor>Changements climatiques</autocolor></li>
-  <li><autocolor>Aménagement du territoire</autocolor>
-  <li><autocolor>Morphopédologie</autocolor>
-  <li><autocolor>Géodynamique des écosystèmes littoraux et continentaux</autocolor>
-  <li><autocolor>SIG et télédétection</autocolor>
-  <li><autocolor>Suivi environnemental</autocolor>
-
-   </li>
+  <li><autocolor>Aménagement du territoire</autocolor> </li>
+  <li><autocolor>Morphopédologie</autocolor> </li>
+  <li><autocolor>Géodynamique des écosystèmes littoraux et continentaux</autocolor> </li>
+  <li><autocolor>SIG et télédétection</autocolor> </li>
+  <li><autocolor>Suivi environnemental</autocolor> </li>
 </ul>
 
 
